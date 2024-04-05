@@ -1,9 +1,9 @@
 # -moabdullah0
-## Hi I'm mohamad :fox_face:
+## Hi I'm mohamad 
 
 ![Mohamad](https://portfolio2024-sable.vercel.app/assets/Remove-bg.ai_1706880949841-FFg9CRln.png)
 
-:computer: _Software Engenieer at [Fitnezz.io]([https://github.com/fitnezzio](https://github.com/moabdullah0))_ :desert_island:Living in Turkey :Killis:
+:computer: _Software Engenieer at [https://portfolio2024-sable.vercel.app/]([https://github.com/fitnezzio](https://github.com/moabdullah0))_ :desert_island:Living in Turkey :Killis:
 
 ### My Tech Stack
 
