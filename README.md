@@ -6,8 +6,9 @@
 :computer: _Software Engenieer at [https://portfolio2024-sable.vercel.app/]([https://github.com/fitnezzio](https://github.com/moabdullah0))_ :desert_island:Living in Turkey :Killis:
 
 ### My Tech Stack
+![ReactJS](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
 
 #### Frontend
