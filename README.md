@@ -1,7 +1,7 @@
-# -moabdullah0
+![image](https://github.com/user-attachments/assets/98672c17-d25f-40b3-8c17-2417dcbb3d5b)# -moabdullah0
 ## Hi I'm mohamad 
 
-![Mohamad](https://portfolio2024-sable.vercel.app/assets/Remove-bg.ai_1706880949841-FFg9CRln.png)
+![Mohamad](https://moabdullah.vercel.app/assets/Group%204-dvIKCzQL.svg)
 
 :computer: _Software Engenieer at [https://portfolio2024-sable.vercel.app/]([https://github.com/fitnezzio](https://github.com/moabdullah0))_ :desert_island:Living in Turkey :Killis:
 
