@@ -3,7 +3,7 @@
 
 
 
-:computer: _Software Engenieer at [https://portfolio2024-sable.vercel.app/]([https://github.com/fitnezzio](https://github.com/moabdullah0))_ :desert_island:Living in Turkey :Killis:
+:computer: _Software Engenieer at [https://www.moib.dev]([https://github.com/fitnezzio](https://github.com/moabdullah0))_ :desert_island:Living in Turkey :Killis:
 
 ### My Tech Stack
 ![ReactJS](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
